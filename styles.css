@@ -3,7 +3,8 @@
     height: auto;
 }
 
-body {
-  font-family: "arial", sans-serif;
-
+.body {
+  font-family:'Courier New', Courier, monospace;
 }
+
+
