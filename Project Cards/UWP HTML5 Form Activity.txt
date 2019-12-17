@@ -1,0 +1,10 @@
+<div class="card bg-light">
+  <div class="card-body text-center">
+     <img class="card-img-top" src="LinGradForm.JPG" alt="HTML5 UWP">
+        <div class="card-body">
+        <h4 class="card-title">Simple UWP HTML5 Form Activiy</h4>
+        <p class="card-text">Showcases linear gradient background skillset and how to code HTML5/CSS/JavaScript in Visual Studios 2019.</p>
+        <a href="http://sotd.us/lillianvancoonis/COP4777C/" target="_blank" class="btn btn-info">Visit Link</a>
+        </div>
+  </div>
+</div>

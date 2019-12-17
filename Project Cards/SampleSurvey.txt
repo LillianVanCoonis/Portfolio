@@ -1,0 +1,11 @@
+<div class="card bg-light">
+   <div class="card-body text-center">
+      <img class="card-img-top" src="sampleSurvey.JPG" alt="Intro">
+         <div class="card-body">
+         <h4 class="card-title">A Sample Survey</h4>
+         <p class="card-text">Demonstration of skills with forms and creating radio buttons.</p>
+         <a href="http://sotd.us/lillianvancoonis/LillisSurvey/simpleSurvey.html" target="_blank"
+              class="btn btn-info">Visit Link</a>
+         </div>
+   </div>
+</div>

@@ -1,0 +1,15 @@
+<div class="card bg-light">
+   <div class="card-body text-center">
+      <img class="card-img-top" src="digitalPortfolio2.JPG" alt="Portfolio">
+         <div class="card-body">
+         <h4 class="card-title">Digital Portfolio</h4>
+         <p class="card-text">Built this website within a few days after degree program was completed.
+          Continous updates/revisions being made to show work as it progresses.
+          Downtime has been used to build each page to showcase different content and Bootstrap 4 designs.
+          Website will remain opensourced to make viewing my source code easy.
+          Displays some of my web development capabilities and dedication to continuous learning.
+         </p>
+        <a href="http://sotd.us/lillianvancoonis/portfolio/ContactMe.html" class="btn btn-info">Visit Link</a>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,10 @@
+<div class="card bg-light">
+   <div class="card-body text-center">
+      <img class="card-img-top" src="AdvMobileWebAppDev.JPG" alt="Intro">
+         <div class="card-body">
+         <h4 class="card-title">Advanced Mobile Web Application Development</h4>
+         <p class="card-text">Introduction to Boostrap 3.</p>
+         <a href="http://sotd.us/lillianvancoonis/CIS4655C/Module06/CourseProject/Home.html" target="_blank" class="btn btn-info">Visit Link</a>
+         </div>
+   </div>
+</div> 

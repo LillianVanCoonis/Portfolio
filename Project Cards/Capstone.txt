@@ -1,0 +1,11 @@
+<div class="card bg-light">
+   <div class="card-body text-center">
+      <img class="card-img-top" src="capstoneProject.JPG" alt="Capstone">
+        <div class="card-body">
+        <h4 class="card-title">Computer Science Capstone</h4>
+        <p class="card-text"> Exhibited initiative and dedication of learning the up-to-date changes from Bootstrap 3 to
+          Bootstrap 4.</p>
+        <a href="http://sotd.us/lillianvancoonis/capstone/Home.html" target="_blank" class="btn btn-info">Visit Link</a>
+      </div>
+   </div>
+</div>

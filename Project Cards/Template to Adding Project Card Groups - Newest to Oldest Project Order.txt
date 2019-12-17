@@ -1,0 +1,83 @@
+<!--Top row-->
+<div class="card-group" style = "font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<!--1-->
+<div class="card bg-light">
+   <div class="card-body text-center">
+      <img class="card-img-top" src="digitalPortfolio2.JPG" alt="Portfolio">
+        <div class="card-body">
+         <h4 class="card-title">Digital Portfolio</h4>
+         <p class="card-text">Built this website within a few days after degree program was completed.
+          Continous updates/revisions being made to show work as it progresses.
+          Downtime has been used to build each page to showcase different content and Bootstrap 4 designs.
+          Website will remain opensourced to make viewing my source code easy.
+          Displays some of my web development capabilities and dedication to continuous learning.
+         </p>
+         <a href="http://sotd.us/lillianvancoonis/portfolio/ContactMe.html" class="btn btn-info">Visit Link</a>
+        </div>
+   </div>
+</div>
+<!--2-->
+<div class="card bg-light">
+   <div class="card-body text-center">
+      <img class="card-img-top" src="capstoneProject.JPG" alt="Capstone">
+        <div class="card-body">
+        <h4 class="card-title">Computer Science Capstone</h4>
+        <p class="card-text"> Exhibited initiative and dedication of learning the up-to-date changes from Bootstrap 3 to
+          Bootstrap 4.</p>
+        <a href="http://sotd.us/lillianvancoonis/capstone/Home.html" target="_blank" class="btn btn-info">Visit Link</a>
+        </div>
+   </div>
+</div>       
+</div>
+<!--Second Row-->
+<div class="card-group" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">    
+<!--1-->
+<div class="card bg-light">
+  <div class="card-body text-center">
+     <img class="card-img-top" src="LinGradForm.JPG" alt="HTML5 UWP">
+        <div class="card-body">
+        <h4 class="card-title">Simple UWP HTML5 Form Activiy</h4>
+        <p class="card-text">Showcases linear gradient background skillset and how to code HTML5/CSS/JavaScript in Visual Studios 2019.</p>
+        <a href="http://sotd.us/lillianvancoonis/COP4777C/" target="_blank" class="btn btn-info">Visit Link</a>
+        </div>
+  </div>
+</div>
+<!--2-->
+<div class="card bg-light">
+   <div class="card-body text-center">
+      <img class="card-img-top" src="sampleSurvey.JPG" alt="Intro">
+         <div class="card-body">
+         <h4 class="card-title">A Sample Survey</h4>
+         <p class="card-text">Demonstration of skills with forms and creating radio buttons.</p>
+         <a href="http://sotd.us/lillianvancoonis/LillisSurvey/simpleSurvey.html" target="_blank"
+              class="btn btn-info">Visit Link</a>
+         </div>
+   </div>
+</div>      
+</div>  
+<!--Third Row-->
+<div class="card-group" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<!--1-->
+<div class="card bg-light">
+   <div class="card-body text-center">
+      <img class="card-img-top" src="AdvMobileWebAppDev.JPG" alt="Intro">
+         <div class="card-body">
+         <h4 class="card-title">Advanced Mobile Web Application Development</h4>
+         <p class="card-text">Introduction to Boostrap 3.</p>
+         <a href="http://sotd.us/lillianvancoonis/CIS4655C/Module06/CourseProject/Home.html" target="_blank" class="btn btn-info">Visit Link</a>
+         </div>
+   </div>
+</div>
+<!--2-->
+<div class="card bg-light">
+   <div class="card-body text-center">
+       <img class="card-img-top" src="Intro2HTML.JPG" alt="Intro">
+          <div class="card-body">
+          <h4 class="card-title">Introduction to HTML Course</h4>
+          <p class="card-text">Initial HTML5 project.</p>
+          <a href="http://sotd.us/lillianvancoonis/LilliAnnes_BnBs/Homepage.html" target="_blank" class="btn btn-info">Visit Link</a>
+          </div>
+      </div>
+   </div>  
+</div>    
+
